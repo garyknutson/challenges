@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1f6fb4-ab86-4e95-bf09-95e908fb4f34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TwAhFTgkEB4hZc1pFepgpWAnOS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../challenge 2/test_exoticsearch.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="challenges" sdk-home="C:\Users\Gary.Knutson\PycharmProjects\challenges\venv\Scripts\python.exe">
+        <option name="mySdkHome" value="C:\Users\Gary.Knutson\PycharmProjects\challenges\venv\Scripts\python.exe" />
+        <option name="myModuleName" value="challenges" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gary.Knutson\PycharmProjects\challenges\challenger1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gary.Knutson\PycharmProjects\challenges\challenge1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in challenge3loop.py">
+    <configuration name="Unittests for challenge3.Challenge3.test_challenge3loops" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenger1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;challenge3.Challenge3.test_challenge3loops&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for challenge3loop.Challenge3.test_challenge3loop" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;challenge3loop.Challenge3.test_challenge3loop&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in assert_challenge2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/challenge2/assert_challenge2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in challenge1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/challenge1/challenge1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in challenge3loop.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/challenge3/challenge3loop.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in challenge3loop.py" />
+        <item itemvalue="Python tests.Unittests in assert_challenge2.py" />
+        <item itemvalue="Python tests.Unittests in challenge1.py" />
+        <item itemvalue="Python tests.Unittests for challenge3loop.Challenge3.test_challenge3loop" />
+        <item itemvalue="Python tests.Unittests for challenge3.Challenge3.test_challenge3loops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1f6fb4-ab86-4e95-bf09-95e908fb4f34" name="Default Changelist" comment="" />
+      <created>1574360901984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574360901984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-118" y="-738" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575647757231">
+      <screen x="-817" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-118" y="-738" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@-817.-1080.1920.1080" timestamp="1575647757231" />
+    <state x="1735" y="-931" key="FileChooserDialogImpl" timestamp="1575495531103">
+      <screen x="1103" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@0.0.1280.680" timestamp="1575490816929" />
+    <state x="1735" y="-931" key="FileChooserDialogImpl/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@1103.-1080.1920.1080" timestamp="1575495531103" />
+    <state width="1259" height="294" key="GridCell.Tab.0.bottom" timestamp="1581021628350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@-817.-1080.1920.1080" timestamp="1575936529369" />
+    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@0.0.1280.680" timestamp="1575489034092" />
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@1103.-1080.1920.1080" timestamp="1575560439209" />
+    <state width="1259" height="294" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581021628350" />
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/1103.-1080.1920.1020/-817.-1080.1920.1080/0.0.1280.680@1103.-1080.1920.1020" timestamp="1576106982497" />
+    <state width="1259" height="294" key="GridCell.Tab.0.center" timestamp="1581021628349">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.center/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@-817.-1080.1920.1080" timestamp="1575936529369" />
+    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@0.0.1280.680" timestamp="1575489034092" />
+    <state width="1899" height="294" key="GridCell.Tab.0.center/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@1103.-1080.1920.1080" timestamp="1575560439209" />
+    <state width="1259" height="294" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581021628349" />
+    <state width="1899" height="294" key="GridCell.Tab.0.center/1103.-1080.1920.1020/-817.-1080.1920.1080/0.0.1280.680@1103.-1080.1920.1020" timestamp="1576106982497" />
+    <state width="1259" height="294" key="GridCell.Tab.0.left" timestamp="1581021628348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.left/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@-817.-1080.1920.1080" timestamp="1575936529369" />
+    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@0.0.1280.680" timestamp="1575489034092" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@1103.-1080.1920.1080" timestamp="1575560439209" />
+    <state width="1259" height="294" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581021628348" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left/1103.-1080.1920.1020/-817.-1080.1920.1080/0.0.1280.680@1103.-1080.1920.1020" timestamp="1576106982497" />
+    <state width="1259" height="294" key="GridCell.Tab.0.right" timestamp="1581021628350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.right/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@-817.-1080.1920.1080" timestamp="1575936529369" />
+    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@0.0.1280.680" timestamp="1575489034092" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@1103.-1080.1920.1080" timestamp="1575560439209" />
+    <state width="1259" height="294" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581021628350" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right/1103.-1080.1920.1020/-817.-1080.1920.1080/0.0.1280.680@1103.-1080.1920.1020" timestamp="1576106982497" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1575935059691">
+      <screen x="-817" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@-817.-1080.1920.1080" timestamp="1575935059691" />
+    <state x="437" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1581017776516">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@0.0.1280.680" timestamp="1581017776516" />
+    <state x="1758" y="-718" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1103.-1080.1920.1080/-817.-1080.1920.1080@1103.-1080.1920.1080" timestamp="1575495440117" />
+  </component>
+</project>
